@@ -1,0 +1,4 @@
+$ cat .gitignore
+    emacs*
+    /~
+     $ echo '!/emacs*' >arch/foo/kernel/.gitignore
